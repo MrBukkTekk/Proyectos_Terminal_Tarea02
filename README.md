@@ -5,8 +5,7 @@
 3. Descripción
 Son dos jueguitos clásicos: "Lights Out" y el "Juego de la Vida de Conway". Los hice usando puro código en Python, así que no tienen gráficos, se juegan directo en la consola.
 
-4. Configuraciones e Instrucciones
-Programa usado: Python
+4. Lenguaje usado: Python
 
 Instrucciones:
   1. Abre tu terminal y métete a la carpeta donde están los archivos.
