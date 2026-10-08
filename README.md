@@ -10,7 +10,7 @@ Programa usado: Python
 
 Instrucciones:
   1. Abre tu terminal y métete a la carpeta donde están los archivos.
-  2. Escribe `python` seguido del nombre del archivo (ejemplo: `python lights_out.py`).
+  2. Escribe "python" seguido del nombre del archivo, por ejemplo: python lights_out.py.
   3. El programa te va a mostrar las instrucciones ahí mismo en la pantalla, solo síguelas.
 
 Lights Out
